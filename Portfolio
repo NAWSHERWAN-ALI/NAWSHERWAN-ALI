@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="styleportfolio.css">
+</head>
+<body>
+    <header>
+        <h1>MNA DESIGNS</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Welcome to My Portfolio</h2>
+        <!-- Your content goes here -->
+        <p>Man Designs is a dynamic and innovative graphic design company that brings creativity to life through visual storytelling. Specializing in creating captivating and impactful designs, Man Designs is committed to delivering high-quality solutions tailored to meet the unique needs of each client. With a team of skilled graphic designers who possess a keen eye for aesthetics and a deep understanding of design principles, the company excels in crafting compelling logos, branding materials, and eye-catching marketing collateral. Man Designs prides itself on staying ahead of design trends, ensuring that every project reflects a contemporary and cutting-edge aesthetic. Whether it's transforming ideas into vibrant visuals or redefining brand identities, Man Designs is dedicated to helping businesses make a lasting impression through the power of design.</p>
+    </section>
+
+    <footer>
+        <p> 2024 DESIGNS</p>
+    </footer>
+</body>
+</html>
